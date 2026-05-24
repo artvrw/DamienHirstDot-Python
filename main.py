@@ -13,7 +13,7 @@ t.colormode(255)
 timmy.speed("fastest")
 timmy.hideturtle()
 timmy.penup()
-timmy.goto(-400, -340)
+timmy.goto(-225, -225)
 def line():
     for _ in range(10):
         timmy.pendown()
